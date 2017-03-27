@@ -1,0 +1,34 @@
+2016-12-01-DEBUG : Módulo Cadetes - Buscar Cadete - Error: No existe un cadete con el ID provisto.
+2016-12-01-DEBUG : Módulo Cadetes - Buscar Cadete - Error: No existe un cadete con el ID provisto.
+2016-12-01-DEBUG : Módulo Cadetes - Buscar Cadete - Error: ID de cadete incorrecto.
+2016-12-01-DEBUG : Módulo Cadetes - Existe Cadete - Error: Ya existe un usuario con esa cedula o email registrado en el sistema.
+2016-12-01-DEBUG : Módulo Cadetes - Existe Cadete - Error: Datos provistos incorrectos.
+2016-12-01-DEBUG : Módulo Cadetes - Existe Cadete - Error: Datos provistos incorrectos.
+2016-12-01-DEBUG : Módulo Cadetes - Existe Cadete - Error: Datos provistos incorrectos.
+2016-12-01-DEBUG : Módulo Cadetes - Existe Cadete - Error: Datos provistos incorrectos.
+2016-12-01-DEBUG : Módulo Envíos - Buscar Envío - Error: No existe envío con ID 3
+2016-12-01-DEBUG : Módulo Cadetes - Buscar Cadete - Error: No existe un cadete con ID 2
+2016-12-01-DEBUG : Módulo Cadetes - Buscar Cadete - Error: No existe un cadete con ID 3
+2016-12-01-DEBUG : Módulo Envíos - Recepción de Envío - Error: El envío ya fue recibido.
+2016-12-01-DEBUG : Módulo Comentarios - Listar Comentarios - Error: No se han registrado comentarios.
+2016-12-01-DEBUG : Módulo Comentarios - Listar Comentarios - Error: No se han registrado comentarios para el cadete solicitado.
+2016-12-01-DEBUG : Módulo Comentarios - Validar Cliente - Error: El cliente realizando el comentario no coincide con el del servicio que desea calificar.
+2016-12-01-DEBUG : Módulo Comentarios - Listar Comentarios - Error: No se han registrado comentarios para el cadete solicitado.
+2016-12-01-DEBUG : Módulo Envíos - Recepción de Envío - Error: El envío ya fue recibido.
+2016-12-01-DEBUG : Módulo Envíos - Buscar Envío - Error: No existe envío con ID 105
+2016-12-01-DEBUG : Módulo Envíos - Crear Envío - Error: faltan datos
+2016-12-01-DEBUG : Módulo Envíos - Recepción de Envío - Error: El envío ya fue recibido.
+2016-12-01-DEBUG : Módulo Envíos - Recepción de Envío - Error: El envío no tiene un cadete asignado.
+2016-12-01-DEBUG : Módulo Envíos - Recepción de Envío - Error: El envío no tiene un cadete asignado.
+2016-12-01-DEBUG : Módulo Envíos - Recepción de Envío - Error: El envío no tiene un cadete asignado.
+2016-12-01-DEBUG : Módulo Comentarios - Listar Comentarios - Error: No se han registrado comentarios para el cadete solicitado.
+2016-12-01-DEBUG : Módulo Comentarios - Listar Comentarios - Error: No se han registrado comentarios para el cadete solicitado.
+2016-12-01-DEBUG : Módulo Comentarios - Validar Cliente - Error: El cliente realizando el comentario no coincide con el del servicio que desea calificar.
+2016-12-01-DEBUG : Módulo Comentarios - Existe Comentario - Error: Ya existe un comentario para ese servicio.
+2016-12-01-DEBUG : Módulo Comentarios - Existe Comentario - Error: Ya existe un comentario para ese servicio.
+2016-12-01-DEBUG : Módulo Clientes - Listar Clientes - Error: No se han registrado clientes.
+2016-12-01-DEBUG : Módulo Envíos - Crear Envío - Error: faltan datos
+2016-12-01-DEBUG : Módulo Cadetes - Buscar Cadete - Error: No existe un cadete con ID 101
+2016-12-01-DEBUG : Módulo Cadetes - Buscar Cadete - Error: No existe un cadete con ID 101
+2016-12-01-DEBUG : Módulo Cadetes - Buscar Cadete - Error: No existe un cadete con ID 101
+2016-12-01-DEBUG : Módulo Cadetes - Buscar Cadete - Error: No existe un cadete con ID 101
